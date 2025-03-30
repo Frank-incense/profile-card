@@ -1,6 +1,6 @@
 # Profile Design - #100DaysOfFrontend
 
- (Replace with actual image path)
+ [](/image/profile.jpeg)
 
 ## 🚀 About the Project
 
@@ -26,7 +26,7 @@ As part of my #100DaysOfFrontend challenge, I created a simple and elegant profi
 
 ## 📸 Demo
 
-Check out a live preview: [Profile Card] (Replace with actual link)
+Check out a live preview: [Profile Card](https://frank-incense.github.io/profile-card/)
 
 ## 📂 Project Setup
 
